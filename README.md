@@ -1,4 +1,11 @@
 # ZombieRush
 
+![alt text](https://raw.githubusercontent.com/binarydoor/ZombieRush/master/Gameplay_Screenshot.png)
 
-https://github.com/binarydoor/ZombieRush/blob/master/Gameplay_Screenshot.png?raw=true
+
+
+
+# Installation
+
+Use the sourcecode to build the game. Or run the precompiled version (mac only).
+The game requires XQuartz to be installed before running.
